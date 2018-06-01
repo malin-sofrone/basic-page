@@ -1,2 +1,2 @@
-# basic-page
-A basic page with a very short bio.
+# Basic page for Malin Sofrone bio
+This is a very basic bio for presentation purposes.
